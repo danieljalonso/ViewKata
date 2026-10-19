@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewKata</string>
+    <string name="textview_name">Name:</string>
+    <string name="inputview_name">Name</string>
+    <string name="textview_surnames">Surnames:</string>
+    <string name="inputview_surnames">Surnames</string>
+    <string name="textview_age">Age:</string>
+    <string name="inputview_age">Age</string>
+    <string name="textview_phone">Phone:</string>
+    <string name="inputview_phone">Phone</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_send">Send</string>
+    <string name="textview_name_product">Manzana roja\ndulce</string>
+    <string name="textview_description_product">Pieza 260 g aprox.</string>
+    <string name="textview_price_product">0,70€ / ud</string>
+    <string name="button_buy">Añadir al carro</string>
+</resources>
