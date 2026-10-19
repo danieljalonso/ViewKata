@@ -14,4 +14,11 @@
     <string name="textview_description_product">Pieza 260 g aprox.</string>
     <string name="textview_price_product">0,70€ / ud</string>
     <string name="button_buy">Añadir al carro</string>
+    <string name="rl_label_name">Nombre</string>
+    <string name="rl_label_surname1">Apellido 1</string>
+    <string name="rl_label_surname2">Apellido 2</string>
+    <string name="age">Edad</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="_2nd_block">Bloque2</string>
 </resources>
